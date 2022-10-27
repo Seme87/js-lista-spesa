@@ -1,0 +1,39 @@
+/*------------------
+        RESET
+-------------------*/
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+/*------------------
+        RESET
+-------------------*/
+
+
+
+/*------------------
+      COMMON
+-------------------*/
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    max-width: 900px;
+    padding: 20px 40px;
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+    color: white;
+    background-color: #c63e00;
+}
+
+.items{
+    text-align: left;
+    font-size: 30px;
+    padding: 20px 0;
+}
